@@ -44,6 +44,7 @@ TI_TEST_BASE = "\
     powertop \
     procps \
     pulseaudio-misc \
+    rng-tools \
     rt-tests \
     rwmem \
     smcroute \

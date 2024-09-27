@@ -49,6 +49,7 @@ ARAGO_EXTRA = "\
     nfs-utils-client \
     cifs-utils \
     phytool \
+    lldpd \
 "
 
 OPTEE_PKGS = " \
